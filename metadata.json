@@ -1,0 +1,8 @@
+{
+  "name": "Intelligent Route Planning — Parallel Computing (OpenMP)",
+  "description": "High-performance shortest-path route planning on large road networks using sequential and OpenMP parallel Dijkstra on DIMACS9 datasets with network-size scaling analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

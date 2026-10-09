@@ -1,0 +1,11 @@
+query_id,source,destination,algorithm,threads,time_ms,path_len,distance,validated
+1,1,500,seq-heap,1,2.4949,142,328707,true
+1,1,500,omp-scan,2,3930.5615,142,328707,true
+2,1,1000,seq-heap,1,1.8330,81,293485,true
+2,1,1000,omp-scan,2,3035.6735,81,293485,true
+3,500,2500,seq-heap,1,0.2085,49,178395,true
+3,500,2500,omp-scan,2,299.1710,49,178395,true
+4,1000,5000,seq-heap,1,15.3242,317,494889,true
+4,1000,5000,omp-scan,2,21532.9358,317,494889,true
+5,2500,10000,seq-heap,1,9.4435,272,500097,true
+5,2500,10000,omp-scan,2,15423.6609,272,500097,true

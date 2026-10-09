@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+engine/data/*.gr
+engine/data/*.gr.gz
+engine/data/*.co
+engine/data/*.co.gz
+engine/bin/
+engine/build/
+*.o
+*.a
+
